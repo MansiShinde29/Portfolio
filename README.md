@@ -9,6 +9,6 @@ Hey there! This is my personal portfolio website built using HTML, CSS, and Java
 - Contact form
 
 ## 🔗 Live Site
-👉 [View My Portfolio](file:///Users/tg3cube/Portfolio/index.html)
+👉 [View My Portfolio]((https://vercel.com/mansishinde29s-projects/portfolio))
 
 ## 📁 Folder Structure
