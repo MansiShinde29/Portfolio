@@ -9,6 +9,6 @@ Hey there! This is my personal portfolio website built using HTML, CSS, and Java
 - Contact form
 
 ## 🔗 Live Site
-👉 ((https://vercel.com/mansishinde29s-projects/portfolio))
+👉 (([https://vercel.com/mansishinde29s-projects/portfolio](https://portfolio-mocha-two-55.vercel.app/)))
 
 ## 📁 Folder Structure
